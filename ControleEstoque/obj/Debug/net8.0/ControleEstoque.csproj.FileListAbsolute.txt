@@ -1,0 +1,29 @@
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\bin\Debug\net8.0\ControleEstoque.exe
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\bin\Debug\net8.0\ControleEstoque.deps.json
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\bin\Debug\net8.0\ControleEstoque.runtimeconfig.json
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\bin\Debug\net8.0\ControleEstoque.dll
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\bin\Debug\net8.0\ControleEstoque.pdb
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.dll
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\refint\ControleEstoque.dll
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.pdb
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ControleEstoque.genruntimeconfig.cache
+C:\Users\Léo\Documents\Senac\alg2\ControleEstoque\obj\Debug\net8.0\ref\ControleEstoque.dll
+E:\Git\Controle de Estoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.exe
+E:\Git\Controle de Estoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.deps.json
+E:\Git\Controle de Estoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.runtimeconfig.json
+E:\Git\Controle de Estoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.dll
+E:\Git\Controle de Estoque\ControleEstoque\bin\Debug\net8.0\ControleEstoque.pdb
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfoInputs.cache
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.AssemblyInfo.cs
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.csproj.CoreCompileInputs.cache
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.sourcelink.json
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.dll
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\refint\ControleEstoque.dll
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.pdb
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ControleEstoque.genruntimeconfig.cache
+E:\Git\Controle de Estoque\ControleEstoque\obj\Debug\net8.0\ref\ControleEstoque.dll
